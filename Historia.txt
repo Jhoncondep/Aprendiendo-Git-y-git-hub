@@ -2,3 +2,5 @@ Esta es la carpeta de Jhon Conde
 
 Aquí estoy aprendiendo a usar Git porque mi curiosidad intelectual me indica que 
 algo debería aprender de la programación
+
+Tambien deseo aprender ciencia de datos pero no decido en que especializarme
